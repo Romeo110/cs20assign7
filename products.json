@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "name": "Vintage T-Shirt",
+      "description": "Tie-dye Grateful Dead T-shirt",
+      "price": "$35",
+      "categories": ["clothing", "vintage", "music"]
+    },
+    {
+			"name": "Leather Jacket",
+			"description": "Classic black leather motorcycle jacket",
+			"price": "$150",
+			"categories": ["clothing", "outerwear", "fashion"]
+		},
+		{
+			"name": "Handcrafted Wooden Desk",
+			"description": "Beautifully carved solid oak desk",
+			"price": "$500",
+			"categories": ["furniture", "handcrafted", "home"]
+		},
+		{
+			"name": "Smartphone",
+			"description": "Latest model with advanced features",
+			"price": "$800",
+			"categories": ["electronics", "gadgets", "technology"]
+		},
+		{
+			"name": "Antique Pocket Watch",
+			"description": "19th-century Swiss-made pocket watch",
+			"price": "$200",
+			"categories": ["accessories", "antique", "fashion"]
+		},
+		{
+			"name": "Vintage Vinyl Records",
+			"description": "Collection of classic rock vinyl records",
+			"price": "$50",
+			"categories": ["music", "vintage", "collectibles"]
+		},
+		{
+			"name": "Designer Sunglasses",
+			"description": "Stylish sunglasses from a top designer brand",
+			"price": "$120",
+			"categories": ["accessories", "fashion", "luxury"]
+		},
+		{
+			"name": "Organic Cotton Bed Sheets",
+			"description": "Luxurious and sustainable bedding set",
+			"price": "$80",
+			"categories": ["home", "organic", "bedding"]
+		},
+		{
+			"name": "Artificial Intelligence Book",
+			"description": "Exploring the latest advancements in AI",
+			"price": "$25",
+			"categories": ["books", "technology", "education"]
+		},
+		{
+			"name": "Vintage Camera",
+			"description": "Classic film camera from the 1960s",
+			"price": "$150",
+			"categories": ["photography", "vintage", "collectibles"]
+    }
+  ]
+}
